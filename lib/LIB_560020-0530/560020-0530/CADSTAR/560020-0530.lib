@@ -1,0 +1,19 @@
+.560020-0530 :1 ;Headers & Wire Housings 2.0 W/B SMT STAu5ckt EMBOSSED TP PKG
+"5600200530"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=MP1 7=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="MP1" 7="MP2"
+*MXP 7
+*DFN 560020-0530
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (560020-0530)
+~!Mouser Part Number (538-560020-0530)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/560020-0530?qs=c8NFF48pVsAr8lC1%252BZ%252Bm4w%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/5600200530_sd.pdf)
+~!Height (9.3mm)
+~!3D_Model (560020-0530)
+"560020-0530"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 
