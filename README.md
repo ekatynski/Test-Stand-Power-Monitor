@@ -15,3 +15,6 @@ In addition, this board is capable of operating a relay to control a contactor p
 
 ## To-Do
 Firmware to perform said monitoring has not yet been developed. This board utilizes an ESP32 microcontroller, chosen because it can be configured to communicate over WiFi out of the box, but I have not taken the time to write the C++ needed to make this board useful yet.
+
+## Assembly Guide
+If interested, an interactive BOM is available in this repo at `/bom/Test-Stand-Power-Monitor_2023-06-12_22-39-21.html`.
