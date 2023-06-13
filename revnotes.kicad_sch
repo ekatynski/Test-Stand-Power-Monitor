@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 5db8dd77-c624-4b7f-8ee3-b302b2c4feab)
+
+  (paper "A4")
+
+  (title_block
+    (title "Test Stand Power Monitor")
+    (date "2023-06-05")
+    (rev "1.0")
+    (comment 1 "Ed Katynski")
+    (comment 2 "(PENDING REVIEW)")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "REVISION NOTES" (at 116.84 35.56 0)
+    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
+    (uuid 0c848c5f-91a3-4148-9ad1-973e27e35b13)
+  )
+  (text "1.0: Initial development." (at 124.46 50.8 0)
+    (effects (font (size 2.54 2.54) bold) (justify left bottom))
+    (uuid 78e6fea9-e794-4263-9fa1-613ec4a531e0)
+  )
+)

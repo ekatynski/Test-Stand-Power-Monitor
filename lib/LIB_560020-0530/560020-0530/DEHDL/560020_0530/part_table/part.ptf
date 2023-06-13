@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '560020_0530'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "560020-0530" (!) = "", "5600200530", "Other", "538-560020-0530", "https://www.mouser.co.uk/ProductDetail/Molex/560020-0530?qs=c8NFF48pVsAr8lC1%252BZ%252Bm4w%3D%3D", "", "", "Headers & Wire Housings 2.0 W/B SMT STAu5ckt EMBOSSED TP PKG", "https://www.molex.com/pdm_docs/sd/5600200530_sd.pdf", "9.3 mm"
+END_PART
+
+END.
