@@ -1,0 +1,6 @@
+# Ignore KiCad backups
+Test-Stand-Power-Monitor-backups/*
+*.kicad_sch-bak
+
+# Ignore lock files
+*.lck
