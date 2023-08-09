@@ -6,8 +6,9 @@
 
   (title_block
     (title "Test Stand Power Monitor")
-    (date "2023-06-05")
+    (date "2023-08-08")
     (rev "1.0")
+    (company "Toofon Inc.")
     (comment 1 "Ed Katynski")
     (comment 2 "(PENDING REVIEW)")
   )
