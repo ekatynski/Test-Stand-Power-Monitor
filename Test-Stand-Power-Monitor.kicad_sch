@@ -6,7 +6,7 @@
 
   (title_block
     (title "Test Stand Power Monitor")
-    (date "2023-06-05")
+    (date "2023-08-08")
     (rev "1.0")
     (comment 1 "Ed Katynski")
     (comment 2 "(PENDING REVIEW)")
@@ -2586,7 +2586,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 55.626 104.14 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 989e0bcb-4b98-4086-8ff1-df0ef8ad3403)
     (property "Reference" "J2" (at 56.896 104.14 0)
       (effects (font (size 1.27 1.27)) (justify right))
