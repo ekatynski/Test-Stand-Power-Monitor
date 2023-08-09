@@ -4,3 +4,6 @@ Test-Stand-Power-Monitor-backups/*
 
 # Ignore lock files
 *.lck
+
+# Ignore autosave files
+_autosave*
